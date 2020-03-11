@@ -6,3 +6,13 @@ name = 'pypi'
 [packages]
 invoke = "*"
 gitpython = "*"
+jupyter = "*"
+pandas = "*"
+matplotlib = "*"
+altair = "*"
+vega-datasets = "*"
+geopandas = "*"
+descartes = "*"
+vega = "*"
+seaborn = "*"
+jupyter-contrib-nbextensions = "*"

@@ -1,6 +1,6 @@
-# COMM 177P Project sf-data-project
+# SF Data Project
 
-TK
+SF Data Project
 
 ## Setup
 
@@ -10,7 +10,7 @@ TK
 
 After creating this project:
 
-* `cd comm-177p-project-sf-data-project`
+* `cd sf-data-project`
 * `pipenv install`
 
 ## Save and push your work
@@ -34,7 +34,7 @@ you should use these tasks to save your changes locally and push them to GitHub.
 > It's good to get in the habit of running these commands whenever you wrap up a coding session.
 
 ```
-cd comm-177p-project-sf-data-project
+cd sf-data-project
 
 # Activate the virtual environment
 pipenv shell
@@ -58,7 +58,7 @@ and data analysis:
 The standard workflow is:
 
 ```
-cd comm-177p-project-sf-data-project
+cd sf-data-project
 # Install one or libraries, e.g. requests and BeautifulSoup
 pipenv install requests beautifulsoup4
 ```
